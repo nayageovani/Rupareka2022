@@ -4022,7 +4022,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Kursi ini terinspirasi dari bentuk menara Pisa yang berada di Roma,
+        Italia. Dengan menerapkan gaya asimetris pada kursi sehingga memberikan kesan
+        unik namun tetap terlihat harmonis. Material yang digunakan berupa rotan
+        serta pendekatan gaya Renaisans sehingga memberikan kesan Modern Renaisans
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -4046,11 +4049,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 32.711807
+      value: 35.42104
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 21.560669
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -4062,11 +4065,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 31.379694
+      value: 34.08893
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 25.739637
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -4094,15 +4097,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.542185
+      value: 32.25142
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 31.43704
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Taplak Table\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -4134,15 +4137,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.544493
+      value: 32.253727
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 30.707037
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: A3
+      value: 61 x 26 x 88 cm
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -4279,10 +4282,18 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 77f27d10f05e2074685961b2005ab713, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 2048
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1448
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.x
@@ -4298,11 +4309,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -206
+      value: -158.77133
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1191.7585
+      value: 587.3192
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
@@ -4310,15 +4321,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 33.64076
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 27.817036
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: 'Ivan Reynara, Carrin Clarisa,  Tasya Amelia, Diana Michella Lesmana,
+        Caroline Yosephine
+
+        ISI Surakarta
+
+        087779854364'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -8387,7 +8403,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Semua orang pasti pernah mengalami fase dimana dia merasa sangat down,
+        sulit berdamai dengan diri sendiri, merasa terlalu lelah, dan tidak memiliki
+        semangat lagi, tapi tetap ingin menemukan ketenangan diri. Dalam karya ini,
+        saya menuangkan perasaan saya yang baru keluar dari fase down tersebut, dan
+        berhasil menemukan sebuah \u2018sparks\u2019 yang membuat saya ingin tetap
+        berjuang demi masa depan. Perasaan ini digambarkan sebagai seorang bidadari
+        yang sedang menyentuh air segar, dengan wajah yang damai, sebagai bentuk
+        penyaluran emosi. Ibaratnya, dari sesuatu yang telah redup, kemudian menemukan
+        sebuah \u2018sparks\u2019 yang membuatnya ingin tetap berjuang membesarkan
+        harapan yang semula masih sangat kecil.\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -8407,7 +8432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 327.56885
+      value: 564.43
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8415,7 +8440,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 22.174025
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -8431,11 +8456,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 28.809132
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "marianovana09@gmail.com\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -8463,11 +8488,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 33.089134
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Angel Of Serenity And Hope\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -8503,7 +8528,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 32.35913
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -8679,11 +8704,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 29.469131
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Maria Novana Senduk\r\nUniversitas Tarumanagara\t\n082324407096"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9000,7 +9025,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Kursi ini terinspirasi dari bentuk menara Pisa yang berada di Roma,
+        Italia. Dengan menerapkan gaya asimetris pada kursi sehingga memberikan kesan
+        unik namun tetap terlihat harmonis. Material yang digunakan berupa rotan
+        serta pendekatan gaya Renaisans sehingga memberikan kesan Modern Renaisans
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9044,11 +9072,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 27.622215
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: caroline.615190072@stu.untar.ac.id
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9076,11 +9104,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 32.576008
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Inclinato Chair\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9116,11 +9144,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 31.846004
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: A3
+      value: 61 x 26 x 88 cm
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9257,7 +9285,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 553f46a3d0e7dd04ba8b2f2d5b38dbfa, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -9280,7 +9308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1191.7585
+      value: 618.08203
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
@@ -9288,15 +9316,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 31.24203
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 28.956003
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Ivan Reynara, Carrin Clarisa,  Tasya Amelia, Diana Michella Lesmana,
+        Caroline Yosephine\nUniversitas Tarumanagara\t\n08117499353"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -16793,7 +16822,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: This design is inspired by the word Saling which was developed in the
+        design of the dining chair with a pattern that overlaps and binds each other
+        so as to create a strong relationship and a beautiful pattern. The design
+        that is implemented on the dining chair because it starts with eating together
+        and sharing stories, experiences and ideas will create new plans and innovations.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -16841,7 +16874,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "alfateh277@gmail.com\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -16873,7 +16906,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: 'Saling Dining Chair
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -16913,7 +16948,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: A3
+      value: 50 x 30 x 80cm
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -17050,7 +17085,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 5db958734d5ae6b4c97fba25bd342fbf, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -17089,7 +17124,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Muhamad Fadilah Fatah\nISI Surakarta\t\n0895341480333"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -18347,7 +18382,9 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Betapa hebatnya percikan api kecil yang perlahan melahap kayu-kayu itu.
+        Siapa sangka bisa menjadi api sebesar itu? Mungkin percikan itu adalah perwujudan
+        literal dari tema rupareka kali ini.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -18395,7 +18432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: Juan.sebastian@mcsaatchi.com
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -18427,7 +18464,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "\rSparks"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -18604,7 +18641,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: e403fe21d924d2b4996bd6b3030c541e, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -18643,7 +18680,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Juan Sebastian\nUniversitas Tarumanagara\t\n081315077918"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -23167,7 +23204,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Karya ini mengajak kita untuk memelihara percikan ide sekecil apa pun
+        dengan sepenuh hati dan kesabaran. Dengan demikian, percikan tersebut dapat
+        menjadi bintang terang yang berkobar-kobar. Memancarkan semangat dan inspirasi
+        bagi orang lain, serta menambah warna dalam kehidupan.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -23215,7 +23255,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: winston.muliawan@gmail.com
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -23247,7 +23287,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: Nurture your spark
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -23424,7 +23464,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: e89e819a5aebf3649b37369b70585ae2, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -23463,7 +23503,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Winston Muliawan\nBINUS\t\n08979372768"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -31071,7 +31111,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Karya ini menceritakan seseorang yang tersesat dalam pikirannya, meraba-raba
+        akan jalan keluar untuk menyelamatkan dirinya dan menunggu untuk sadar.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -31119,7 +31160,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "dastine.615210006@stu.untar.ac.id\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -31151,7 +31192,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: LOST IN MIND
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -31328,7 +31369,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 96628aa5ee89f504083b1941f4be5885, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -31367,7 +31408,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Dastine Hariansen Yang\nUNTAR\t\n08872584565"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -32942,7 +32983,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Office merupakan lingkungan dimana terdapat banyak individu dengan
+        karakter dan kelebihannya masing-masing dan saling bekerja sama untuk suatu
+        tujuan yang sama. Dengan Desain Office yang bergayakan Nature and Colorful
+        dapat membuat suasana bekerja dan hati setiap individu lebih tenang dan tidak
+        mudah penat.\r\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -32966,11 +33011,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 32.711807
+      value: 34.9253
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 22.709885
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -32982,15 +33027,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 31.379694
+      value: 33.593185
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 26.954235
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: Jihaneffendy15@gmail.com
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -33014,15 +33059,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.542185
+      value: 31.755674
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 31.234238
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Office with Nature & Colorful Style\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -33054,11 +33099,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.544493
+      value: 31.757984
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 30.504236
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -33199,26 +33244,34 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 912d20885af44f746984169c6037e744, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 452
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.17048965
+      value: 0.4119371
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.17048965
+      value: 0.4119371
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.17048965
+      value: 0.4119371
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -206
+      value: -171.76181
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -33230,15 +33283,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 39.245926
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 27.614235
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Jihan\nUNTAR\t\n081311436321"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -41369,7 +41422,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Pertumbuhan pikiran yang mengembang menciptakan imajinasi yang bisa
+        keluar dari nalar pikiran manusia sehingga menciptakan ilusi pikiran ajaib.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -41417,7 +41471,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: 'dastine.615210006@stu.untar.ac.id
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -41449,7 +41505,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: 'Growing
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -41626,7 +41684,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: ac1211c56113cd6479707880262dff76, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -41665,7 +41723,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Dastine Hariansen Yang\nUNTAR\t\n08872584565"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -42259,7 +42317,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Ketika bertemu dengan kekayaan budaya Kuta, Bali. Pendengar akan tapjuk
+        terhadap sejarah kesenian dan filosofis yang beragam serta keistimewa. Maka
+        budaya seperti ini merupakan inspirasi tema Cultural Adventure dalam bentuk
+        interior yang menceritakan gaya hidup dan cirikhas kesenian Kuta, Bali. Sebagai
+        tempat menghayati, mengenal dan menghargai kultur Kuta, Bali.\r\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -42283,11 +42345,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 32.711807
+      value: 34.27182
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 22.169077
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -42299,15 +42361,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 31.379694
+      value: 32.939705
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 26.413427
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: jethroalv@gmail.com
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -42323,23 +42385,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 449.66455
+      value: 435.5327
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 62.39859
+      value: 73.70413
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.542185
+      value: 30.959558
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 31.035042
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: 'Cultural Adventure: The unseen heritage of Kuta, Bali
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -42371,11 +42435,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.544493
+      value: 31.104506
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 29.963428
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -42516,26 +42580,34 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 54705462abf56c248a4ff22b91aee3d0, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 723
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.17048965
+      value: 0.31121182
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.17048965
+      value: 0.31121182
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.17048965
+      value: 0.31121182
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -206
+      value: -181.86543
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -42547,15 +42619,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 38.592445
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 27.073427
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Jethro Alva\r\nUniversitas Tarumanagara\t\n089608509235"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -43057,7 +43129,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 5f2fa19e6d3cf7a4a891d1fd9007ceed, type: 3}
+      objectReference: {fileID: 21300000, guid: 0fd7e756386ddf74d981c788559cccff, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -44841,7 +44913,9 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Karya ini menceritakan seorang anak yang memberanikan diri untuk pergi
+        kedalam kegelapan, menghadapi monster-monster dan beribu rintangan di dunia
+        luar untuk mencapai titik terang dalam hidupnya.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -44889,7 +44963,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "dastine.615210006@stu.untar.ac.id\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -44921,7 +44995,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Into the unknown\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -45098,7 +45172,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 97cba8b59ff8fa443800df23e2f0c466, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -45137,7 +45211,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Dastine Hariansen Yang\nUNTAR\t\n08872584565"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -46744,7 +46818,22 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Karya ini terinspirasi dari Air dan warna Biru , Biru adalah warna
+        favorit semua orang. Biru adalah warna alami untuk air dan langit, tetapi
+        jarang ditemukan dalam buah-buahan dan sayuran. Biru memiliki makna yang
+        lebih kompleks dan kontradiktif daripada warna lainnya. Hal ini dapat dengan
+        mudah dijelaskan dengan menunjukkan warna biru yang spesifik.\r\nBiru mewakili
+        langit dan laut, dan dikaitkan dengan ruang terbuka, kebebasan, intuisi,
+        imajinasi, luas, inspirasi, dan kepekaan. Biru juga mewakili makna kedalaman,
+        kepercayaan, kesetiaan, ketulusan, kebijaksanaan, kepercayaan, stabilitas,
+        iman, surga, dan kecerdasan.\r\nHidup bagaikan air yang mengalir dan begelombang
+        dengan tenangnya menjadi sumber dari segala kehidupan dimuka bumi. Namun,
+        tetap harus behati \u2013 hati dengan air, jika air tersebut dibendung, ia
+        juga dapat meratakan segala apapun yang dilewatinya. \r\nHiduplah bagaikan
+        air yang membentuk seperti wadah air itu sendiri. Air itu fleksibel. dimanapun
+        lokasinya, ia tidak akan pernah takut dalam keadaan apapun. dinamis dan kuat,
+        sekeras kerasnya batu bisa rusak dengan tetesan air. diubah dalam bentuk
+        apapun itu, air tidak akan hilang. \r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -46760,19 +46849,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 763.70325
+      value: 1124.6416
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 327.56885
+      value: 805.5803
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 32.711807
+      value: 31.37
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 21.54
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -46783,16 +46872,20 @@ PrefabInstance:
       value: 59.24619
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.42999882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 31.379694
+      value: 26.34751
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 30.199995
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "tioabdurahman08@gmail.com\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -46815,16 +46908,20 @@ PrefabInstance:
       value: 62.39859
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.542185
+      value: 24.51
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 34.48
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Blue water \r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -46855,12 +46952,16 @@ PrefabInstance:
       value: 67.33374
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.42999882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.544493
+      value: 24.512308
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 33.749996
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -47001,26 +47102,26 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 45c33ca80601c7d4cbbcaf9cd4f2c758, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.17048965
+      value: 0.1455836
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.17048965
+      value: 0.1455836
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.17048965
+      value: 0.1455836
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -206
+      value: -242.48723
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -47031,16 +47132,20 @@ PrefabInstance:
       value: 193.28638
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.42999882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 32.000248
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 30.859995
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Tio Abdurahman\nSMKN 1 Subang\t\n081214379656"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -58207,7 +58312,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Karya saya menggambarkan Kota Jakarta yang masih terbangun di malam
+        hari. Karya ini diambil pada saat malam hari mengunakan teknik long exposure.\r\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -58235,7 +58341,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 22.326813
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -58251,11 +58357,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 26.571163
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "ferdinand.625190071@stu.untar.ac.id\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -58283,11 +58389,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 30.851166
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "The Night Is Still Young\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -58323,7 +58429,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 30.121162
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -58464,26 +58570,34 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 2d7def7a86697b8418e8e67893a3dfd1, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 682
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.17048965
+      value: 0.30473322
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.17048965
+      value: 0.30473322
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.17048965
+      value: 0.30473322
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -206
+      value: -191.00671
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -58499,11 +58613,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 27.231163
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Ferdinand Nathaniel Johan\nUniversitas Tarumanagara\t\n087710882000"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -61129,7 +61243,7 @@ MonoBehaviour:
     air segar, dengan wajah yang damai, sebagai bentuk penyaluran emosi. Ibaratnya,
     dari sesuatu yang telah redup, kemudian menemukan sebuah \u2018sparks\u2019 yang
     membuatnya ingin tetap berjuang membesarkan harapan yang semula masih sangat
-    kecil.\r\nDukungan pembaca layar diaktifkan.\r\n\nMaria Novana Senduk"
+    kecil.\r\n\nMaria Novana Senduk"
 --- !u!222 &1503207316
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -68999,7 +69113,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "\u201CIN THE LIBRARY EXHIBITION\u201D\r\nSebuah perancangan interior
+        dengan konsep di dalam sebuah eksibisi taman bacaan, yang menampilkan citra
+        edukasi, informal, dinamis, fleksibel dan juga kreatif.\r\nPerancangan akan
+        dilengkapi dengan fasilitas penunjang yang mampu memenuhi beragam kebutuhan
+        aktivitas dengan menciptakan furniture dan gubahan ruang yang dinamis, moveable
+        serta mampu menyesuaikan kebutuhan aktivitas"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -69023,11 +69142,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 32.711807
+      value: 31.973385
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 22.101475
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -69039,15 +69158,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 31.379694
+      value: 30.641272
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 26.450468
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "adii@fsrd.untar.ac.id\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -69063,23 +69182,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 449.66455
+      value: 554.9934
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 62.39859
+      value: 121.81506
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.542185
+      value: 29.8669
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 32.376816
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: 'Perancangan Interior Yayasan Rumah Pagi Bahagia "In The Library Exhibition"
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -69111,11 +69232,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.544493
+      value: 28.80607
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 30.76439
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -69256,7 +69377,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: c18aaecebc190ff4d987ac0386792313, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -69279,7 +69400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1191.7585
+      value: 740.9757
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
@@ -69287,15 +69408,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 31.744034
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 27.87439
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Adi Ismanto, S.Sn., M.T.; Fivanda, S.Ds., M.Ds.; Canisha Chrystella;
+        Michella Angelina\nUniversitas Tarumanagara\t\n0817201518"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -69308,6 +69430,14 @@ PrefabInstance:
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_FontData.m_VerticalOverflow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_FontData.m_HorizontalOverflow
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835839791366, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -73140,7 +73270,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Sebuah Jalan ditengah hutan didaerah Pekalongan Jawa Tengah, yang jarang
+        terekspose karena jalan tersebut lumayan sepi. Namun menyuguhkan pemandangan
+        yang sangat indah seperti hutan pinus yang ada di luar negeri, harap saya
+        menginspirasi orang yang melihat karya ini agar selalu melestarikan alam
+        dan mencintai negeri sendiri.\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -73188,7 +73322,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "daffa.615210079@stu.untar.ac.id\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -73220,7 +73354,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Wonderfull Indonesian Forest Scenery\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -73260,7 +73394,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: A3
+      value: "\r3000px X 4000px"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -73397,7 +73531,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: dfa87b322778fab42a6d0f5422320b8a, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -73436,7 +73570,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Daffa Gusti Artha Adi Putra\nUniversitas Tarumanagara\t\n089619424826"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -77275,7 +77409,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: "Otak udang adalah suatu istilah Metafora yang biasanya disebutkan untuk
+        orang yang bodoh. Karya ini merupakan gambar metafora dari kata \"Otak udang'
+        dimana perkataan ini dikatakan kepada orang sebagai subjek, yang memiliki
+        kepala yang bukan berisi otak, melainkan berisi udang\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -77323,7 +77460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "delladjajadi03@gmail.com\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -77355,7 +77492,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: "Otak Udang\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -77532,7 +77669,7 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 8772429f17769a6418e6fd144eef6fca, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -77571,7 +77708,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Della Djajadi\nInstitut Tarumanagara\t\n089521168540"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -81278,7 +81415,13 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: I have no idea
+      value: Cekel adalah alat bantu jalan bagi lansia dan difabel. Desain dibuat
+        untuk membantu aktivitas bagi lansia dan difabel ketika berjalan dan mobilitas.
+        Hal ini ditujukan untuk mengubah perpektif desain bahwa desain bermanfaat
+        bagi semua kalangan. Desain menggunakan material alam suistainable yaitu
+        rotan dengan karakter yang ringan dan lentur sebagai inovasi baru. Produksi
+        dengan menggunakan ketrampilan dari pengerajin rotan yang telah turun temurun
+        sebagai upaya menjaga ketrampilan masyarakat menjadi modal perekonomian.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -81302,11 +81445,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 32.711807
+      value: 34.9253
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 23.543627
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -81318,15 +81461,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 31.379694
+      value: 33.593185
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.619997
+      value: 27.787977
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: dheenoahh@gmail.com
+      value: "alfateh277@gmail.com\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485597, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -81350,15 +81493,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.542185
+      value: 31.755678
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.9
+      value: 32.06798
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: Bloom
+      value: Cekel
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -81390,15 +81533,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 29.544493
+      value: 31.757986
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 31.169998
+      value: 31.337978
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: A3
+      value: 50 x 30 x 80cm
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -81535,26 +81678,34 @@ PrefabInstance:
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8884d4315ee8c1d42867ef633d1c0086, type: 3}
+      objectReference: {fileID: 21300000, guid: 4e2f02a2b0ac7ec419638e6d46ddf5a4, type: 3}
     - target: {fileID: 4507568835708116753, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 724
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.17048965
+      value: 0.3343643
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.17048965
+      value: 0.3343643
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.17048965
+      value: 0.3343643
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835708116766, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -206
+      value: -166.46933
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -81566,15 +81717,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 37.032433
+      value: 39.245926
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28.279997
+      value: 28.447977
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: "Muhamad Fadilah Fatah\nISI Surakarta\t\n0895341480333"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
