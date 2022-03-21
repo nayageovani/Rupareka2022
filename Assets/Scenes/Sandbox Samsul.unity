@@ -335,7 +335,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 677170278}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1510,7 +1510,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1011244212}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2431,7 +2431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.725649
+      value: 24.129503
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -2707,7 +2707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Meilyana Chayadi\r\nUNTAR\t\n089638566235"
+      value: "Meilyana Chayadi\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -3447,7 +3447,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 20.320002
+      value: 23.295757
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -3723,8 +3723,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dastine Hariansen Yang , Arya Dharmayanto\t\nUniversitas Tarumanagara\t\n08872584565
-        , 0859456122548"
+      value: Dastine Hariansen Yang , Arya Dharmayanto
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -4237,7 +4236,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 763.70325
+      value: 632.91003
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.y
@@ -4245,11 +4244,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 35.42104
+      value: 34.100876
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.560669
+      value: 23.588696
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -4525,12 +4524,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Ivan Reynara, Carrin Clarisa,  Tasya Amelia, Diana Michella Lesmana,
+      value: Ivan Reynara, Carrin Clarisa,  Tasya Amelia, Diana Michella Lesmana,
         Caroline Yosephine
-
-        ISI Surakarta
-
-        087779854364'
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -5858,7 +5853,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1715151779}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6109,7 +6104,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 668813285}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6265,7 +6260,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1648943157}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7797,7 +7792,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: Dheerendra Noah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -8431,7 +8426,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1029792636}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8628,7 +8623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.174025
+      value: 23.535332
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -8676,7 +8671,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 33.089134
+      value: 32.35976
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -8716,7 +8711,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 32.35913
+      value: 31.629757
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -8892,11 +8887,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 29.469131
+      value: 28.739758
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Maria Novana Senduk\r\nUniversitas Tarumanagara\t\n082324407096"
+      value: "Maria Novana Senduk\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9280,7 +9275,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -9548,8 +9543,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Ivan Reynara, Carrin Clarisa,  Tasya Amelia, Diana Michella Lesmana,
-        Caroline Yosephine\nUniversitas Tarumanagara\t\n08117499353"
+      value: Ivan Reynara, Carrin Clarisa,  Tasya Amelia, Diana Michella Lesmana,
+        Caroline Yosephine
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -9859,7 +9854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.873114
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -10135,7 +10130,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Aqil Prabowo\r\r\t\n\rHomeschooling Kak Seto\t\n081259439626"
+      value: "Aqil Prabowo\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -10352,7 +10347,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1810256594}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -10965,7 +10960,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 561188666}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -11046,7 +11041,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 747332808}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -11599,7 +11594,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 920039348}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -12800,7 +12795,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 258771885}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -13097,7 +13092,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1094690255}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -14715,7 +14710,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.395021
+      value: 24.016836
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -14995,7 +14990,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Alliya Rahma Heriadi\nSMAN 8 Bandung\t\n0811228875"
+      value: Alliya Rahma Heriadi
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -15212,7 +15207,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 2086859395}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -15752,7 +15747,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1643457543}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -16864,7 +16859,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.421322
+      value: 25.16605
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -17140,7 +17135,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Richieta Angeline\t\nUniversitas Pradita\t\n081908671186"
+      value: Richieta Angeline
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -17412,7 +17407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -17682,7 +17677,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Muhamad Fadilah Fatah\nISI Surakarta\t\n0895341480333"
+      value: Muhamad Fadilah Fatah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -19028,7 +19023,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -19296,7 +19291,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Juan Sebastian\nUniversitas Tarumanagara\t\n081315077918"
+      value: Juan Sebastian
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -20537,7 +20532,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: Dheerendra Noah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -20653,7 +20648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.008316
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -20921,7 +20916,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Fellya Delva Chandra\r\nUniversitas Tarumanagara\t\n082260410589"
+      value: "Fellya Delva Chandra\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -21138,7 +21133,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1551718445}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -22330,7 +22325,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.585098
+      value: 25.616724
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -22598,7 +22593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dhea Raditya\t\nUniversitas Negeri Yogyakarta\t\n082286799750"
+      value: Dhea Raditya
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -23753,7 +23748,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1929569660}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -24057,7 +24052,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -24325,7 +24320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Winston Muliawan\nBINUS\t\n08979372768"
+      value: Winston Muliawan
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -24652,7 +24647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.98578
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -24920,7 +24915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "\rPinkan Rafa Shakila\t\nSMAN 71 Jakarta\r\t\n08568720004"
+      value: "\rPinkan Rafa Shakila\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -26622,7 +26617,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.125626
+      value: 25.075916
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -26898,11 +26893,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Vika Calvina
-
-        BINUS
-
-        085718866395'
+      value: Vika Calvina
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -27353,7 +27344,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 2066119902}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -28390,7 +28381,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.446453
+      value: 25.413921
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -28678,7 +28669,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Wantiyo\t\n-\t\n087881931400"
+      value: Wantiyo
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -29120,7 +29111,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.16605
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -29388,11 +29379,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Olivia Halim Putri
-
-        UNTAR
-
-        081311806197'
+      value: Olivia Halim Putri
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -30341,7 +30328,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 83425117}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -31174,7 +31161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 20.985622
+      value: 22.687351
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -31450,7 +31437,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Aqil Prabowo\t\nHomeschooling Kak Seto\t\n081259439626"
+      value: Aqil Prabowo
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -32519,7 +32506,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 824771498}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -32735,7 +32722,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -33003,7 +32990,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dastine Hariansen Yang\nUNTAR\t\n08872584565"
+      value: Dastine Hariansen Yang
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -34016,7 +34003,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.89
+      value: 24.10697
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -34300,7 +34287,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Juan Sebastian\t\nUniversitas Tarumanagara\t\n081315077918\r\r"
+      value: Juan Sebastian
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -34743,7 +34730,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.709885
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -35019,7 +35006,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Jihan\nUNTAR\t\n081311436321"
+      value: Jihan
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -35331,7 +35318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.98578
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -35599,7 +35586,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Kwee Amanda Alamsyah\t\nUniversitas Tarumanagara\t\n081298087050"
+      value: Kwee Amanda Alamsyah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -35934,7 +35921,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 784466160}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -37568,7 +37555,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.06562
+      value: 23.656298
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -37856,7 +37843,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Maylea Crysantie\t\nUNTAR\t\n085959388246"
+      value: Maylea Crysantie
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -38266,7 +38253,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.985622
+      value: 23.678831
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -38534,7 +38521,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Laurensia M.L.C\t\nUniversitas Tarumanagara\n081317011307"
+      value: "Laurensia M.L.C\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -40171,7 +40158,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.940714
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -40439,7 +40426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Jhilren Rishio\t\nUniversitas Tarumanagara\t\n087722519259\r"
+      value: "Jhilren Rishio\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -41296,7 +41283,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 406143144}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -42666,7 +42653,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1117232204}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -42747,7 +42734,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1630720941}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -43111,7 +43098,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1701355713}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -43201,7 +43188,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.175621
+      value: 23.025354
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -43477,7 +43464,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Jessica Ruby Liu \t\nUniversitas Tarumanagara\t\n082211777818"
+      value: Jessica Ruby Liu
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -43702,7 +43689,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -43974,7 +43961,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dastine Hariansen Yang\nUNTAR\t\n08872584565"
+      value: Dastine Hariansen Yang
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -44270,7 +44257,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1652324521}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -44636,7 +44623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.169077
+      value: 24.490042
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -44914,7 +44901,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Jethro Alva\r\nUniversitas Tarumanagara\t\n089608509235"
+      value: "Jethro Alva\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -45131,7 +45118,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1627383537}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -45223,7 +45210,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.85
+      value: 24.602709
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -45503,11 +45490,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Denok Retno Endah
-
-        Umum
-
-        081290852656'
+      value: Denok Retno Endah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -45724,7 +45707,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 820956121}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -46693,7 +46676,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 236362292}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -47306,7 +47289,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -47574,7 +47557,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dastine Hariansen Yang\nUNTAR\t\n08872584565"
+      value: Dastine Hariansen Yang
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -47978,7 +47961,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1144101518}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -48566,7 +48549,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.85
+      value: 24.152037
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -48846,11 +48829,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Meysia Dewi Aurellia
-
-        UNTAR
-
-        087809515564'
+      value: Meysia Dewi Aurellia
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -49264,7 +49243,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.54
+      value: 22.423237
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -49320,7 +49299,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 34.48
+      value: 33.968018
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -49364,7 +49343,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 33.749996
+      value: 33.238014
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -49544,11 +49523,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 30.859995
+      value: 30.348013
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Tio Abdurahman\nSMKN 1 Subang\t\n081214379656"
+      value: Tio Abdurahman
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -50733,7 +50712,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.175621
+      value: 23.047888
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -51001,11 +50980,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Sunsugos
-
-        UNTAR
-
-        081316205144'
+      value: Sunsugos
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -51893,7 +51868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Leticia Hadi Buana\t\nKyoto Seika University \t\n08111558059"
+      value: Leticia Hadi Buana
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -52474,7 +52449,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1517996145}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -52555,7 +52530,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 834257041}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -53075,7 +53050,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1375658299}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -54335,7 +54310,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1095053605}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -55753,7 +55728,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 923526342}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -56167,7 +56142,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 418672242}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -56248,7 +56223,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1379917049}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -56521,7 +56496,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 2123956662}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -57061,7 +57036,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 863421771}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -58689,7 +58664,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 522915266}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -58876,7 +58851,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.59
+      value: 25.59549
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -59144,11 +59119,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Vika Calvina
-
-        BINUS
-
-        085718866395'
+      value: Vika Calvina
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -59467,7 +59438,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.85
+      value: 24.42244
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -59747,11 +59718,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Deby Novianti Abadi
-
-        -
-
-        087781867099'
+      value: Deby Novianti Abadi
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -60061,7 +60028,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 2108107639}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -61102,7 +61069,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.326813
+      value: 23.999746
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -61150,7 +61117,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754592, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 30.851166
+      value: 30.405935
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -61190,7 +61157,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920260, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 30.121162
+      value: 29.675934
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834934920263, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
@@ -61374,11 +61341,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 27.231163
+      value: 26.785934
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Ferdinand Nathaniel Johan\nUniversitas Tarumanagara\t\n087710882000"
+      value: Ferdinand Nathaniel Johan
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -63198,7 +63165,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 112126977}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -63470,7 +63437,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1641317984}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -63741,7 +63708,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 2024280986}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -64514,7 +64481,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.828047
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -64782,7 +64749,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Dheerendra Noah\nInstitut Teknologi Harapan Bangsa\t\n085171136791"
+      value: Dheerendra Noah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -65342,7 +65309,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1728339799}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -66135,7 +66102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.855757
+      value: 24.782978
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -66423,7 +66390,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Sendi\t\nUNJ\t\n089684545033"
+      value: Sendi
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -67450,7 +67417,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.873112
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -67502,7 +67469,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Awakening Sparks\r"
+      value: Obor
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834781754595, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -67718,7 +67685,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "\rM. Farhandi Haidar\n-\t\n081387782619"
+      value: "\rM. Farhandi Haidar"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -68158,7 +68125,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1008199121}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -68423,7 +68390,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 457822695}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -68513,7 +68480,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.070604
+      value: 23.701365
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -68789,7 +68756,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Maylea Crysantie \nUniversitas Tarumanagara\n085959388246"
+      value: Maylea Crysantie
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -70196,7 +70163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 24.873114
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -70464,7 +70431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "\rKyoko Marvella Christy\t\nUMN\t\n082374737270"
+      value: "\rKyoko Marvella Christy\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -70974,7 +70941,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.305624
+      value: 24.016836
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -71242,7 +71209,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Fransisca Theresia\t\nUMN\t\n085810770701"
+      value: Fransisca Theresia
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -71459,7 +71426,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1120254513}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -71745,7 +71712,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.883907
+      value: 24.805511
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -72033,7 +72000,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Karen Midea\t\nUniversitas Multimedia Nusantara\t\n087889506679"
+      value: Karen Midea
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -72478,7 +72445,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.101475
+      value: 24.444975
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -72748,8 +72715,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Adi Ismanto, S.Sn., M.T.; Fivanda, S.Ds., M.Ds.; Canisha Chrystella;
-        Michella Angelina\nUniversitas Tarumanagara\t\n0817201518"
+      value: Adi Ismanto, S.Sn., M.T.; Fivanda, S.Ds., M.Ds.; Canisha Chrystella;
+        Michella Angelina
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -73065,7 +73032,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.175621
+      value: 22.642282
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -73333,7 +73300,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Edelyn Valencia\t\nBINUS\t\n089526346836"
+      value: "Edelyn Valencia\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -74607,7 +74574,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 569008034}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -75074,7 +75041,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.583961
+      value: 25.391388
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -75362,7 +75329,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Siti Nurannisaa P.B.\t\nUniversitas Tarumanagara\t\n0818111997"
+      value: Siti Nurannisaa P.B.
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -75784,7 +75751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 20.715624
+      value: 22.574682
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -76060,7 +76027,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Owen Leonardo\t\nUNTAR\t\n0895605091175"
+      value: Owen Leonardo
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -76384,7 +76351,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.175621
+      value: 23.25069
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -76660,11 +76627,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Andreas
-
-        Universitas Tarumanagara
-
-        081807495005'
+      value: Andreas
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -76758,7 +76721,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 474806005}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -76839,7 +76802,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 2028731620}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -77013,7 +76976,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -77281,7 +77244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Daffa Gusti Artha Adi Putra\nUniversitas Tarumanagara\t\n089619424826"
+      value: Daffa Gusti Artha Adi Putra
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -78325,7 +78288,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1565641553}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -78514,6 +78477,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 614394491}
     m_Modifications:
+    - target: {fileID: 4507568834369611644, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611646, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
       value: 'Bercerita tentang seorang anak yang berimajinasi tentang adanya skenario
@@ -78547,7 +78514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.175621
+      value: 23.025354
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -78823,7 +78790,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Grivenna Lavender Putri\t\nUniversitas Tarumanagara\t\n081293385012"
+      value: "Grivenna Lavender Putri\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -79796,7 +79763,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 252033186}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -80424,7 +80391,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1802076161}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -80728,7 +80695,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.122705
+      value: 25.09845
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -81004,11 +80971,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Mariati
-
-        Universitas Tarumanagara
-
-        081288691212'
+      value: Mariati
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -81563,7 +81526,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.375647
+      value: 25.053383
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -81831,7 +81794,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Della Djajadi\nInstitut Tarumanagara\t\n089521168540"
+      value: Della Djajadi
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -82466,7 +82429,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.555622
+      value: 24.309772
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -82742,7 +82705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Grivenna Lavender Putri\t\nUniversitas Tarumanagara\t\n081293385012"
+      value: "Grivenna Lavender Putri\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -84327,7 +84290,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 374277969}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -85050,7 +85013,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1819680054}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -85453,7 +85416,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 881127214}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -85742,7 +85705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 23.543627
+      value: 25.05338
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -86018,7 +85981,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Muhamad Fadilah Fatah\nISI Surakarta\t\n0895341480333"
+      value: Muhamad Fadilah Fatah
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -87279,7 +87242,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1030758852}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -87789,7 +87752,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1159380934}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -87904,7 +87867,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1405380250}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -87985,7 +87948,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1592219078}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -88507,7 +88470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 20.89562
+      value: 22.822552
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -88799,7 +88762,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Angela Devianita\t\nInstitut Teknologi Sumatra\t\n+6282253057277"
+      value: "Angela Devianita\t"
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -89031,7 +88994,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.725624
+      value: 24.53511
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -89319,7 +89282,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Alaudin Hafizh Syafwan\t\nUNTAR\t\n087884601908"
+      value: Alaudin Hafizh Syafwan
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -90429,7 +90392,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 640635370}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -91054,7 +91017,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.175621
+      value: 22.867619
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -91330,7 +91293,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Maylea Crysantie\t\nUniversitas Tarumanagara\t\n085959388246"
+      value: Maylea Crysantie
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -91709,7 +91672,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 1749194326}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -92565,7 +92528,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.785473
+      value: 24.242172
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -92833,11 +92796,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: 'Novita Indrawan
-
-        UNTAR
-
-        08999657783'
+      value: Novita Indrawan
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -93411,7 +93370,7 @@ RectTransform:
   m_LocalScale: {x: 0.030324074, y: 0.030324074, z: 0.030324074}
   m_Children: []
   m_Father: {fileID: 214381033}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -93848,7 +93807,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22.06562
+      value: 23.43096
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -94140,7 +94099,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Text
-      value: "Maylea Crysantie\t\nUniversitas Tarumanagara\t\n085959388246"
+      value: Maylea Crysantie
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
@@ -97315,7 +97274,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834369611647, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 21.845625
+      value: 23.429358
       objectReference: {fileID: 0}
     - target: {fileID: 4507568834715485594, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_SizeDelta.x
@@ -97580,6 +97539,10 @@ PrefabInstance:
     - target: {fileID: 4507568835764139410, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 27.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
+      propertyPath: m_Text
+      value: Ensen Tandra
       objectReference: {fileID: 0}
     - target: {fileID: 4507568835764139413, guid: 86233c76e42a06946a20fd9796c97190, type: 3}
       propertyPath: m_Color.a
