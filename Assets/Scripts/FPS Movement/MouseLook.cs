@@ -25,20 +25,7 @@ public class MouseLook : MonoBehaviour
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
         // Zoom Control
-        float mouseScrollWheel = Input.GetAxis("Mouse ScrollWheel");
-        if (mouseScrollWheel > 0)
-        {
-            camera.fieldOfView--;
-        }
-        else if (mouseScrollWheel < 0)
-        {
-            camera.fieldOfView++;
-        }
-
-        if (Input.GetKeyDown(KeyCode.Mouse2))
-        {
-            camera.fieldOfView = defaultFOV;
-        }
+        
 
         xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f);
