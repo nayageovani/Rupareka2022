@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sandbox Samsul.unity
     guid: 924e1332e0b00a746ad99c3213b6bff8
+  - enabled: 1
+    path: Assets/Scenes/Exit.unity
+    guid: f91d5b5cae5f5dd419f8da6ff107e3de
   m_configObjects: {}
