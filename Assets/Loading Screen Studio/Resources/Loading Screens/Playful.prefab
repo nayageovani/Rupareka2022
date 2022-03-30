@@ -1029,7 +1029,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7397934166265474950
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2683,7 +2683,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2334025812528851470
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5056,7 +5056,7 @@ MonoBehaviour:
   onFinishEvents:
     m_PersistentCalls:
       m_Calls: []
-  spinnerHelper: 6
+  spinnerHelper: 2
   updateHelper: 0
 --- !u!225 &4930707704756606854
 CanvasGroup:
