@@ -5047,7 +5047,7 @@ MonoBehaviour:
   enableStatusLabel: 0
   enableRandomHints: 0
   enableRandomImages: 0
-  enablePressAnyKey: 1
+  enablePressAnyKey: 0
   forceCanvasGroup: 0
   fadingAnimationSpeed: 2.5
   onBeginEvents:

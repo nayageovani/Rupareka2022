@@ -18,6 +18,7 @@
     {
         cam = GetComponent<Camera>();
         startingFOV = cam.fieldOfView;
+        transform.Rotate(0f, -90f, 0f);
     }
 
     private void Update() 
