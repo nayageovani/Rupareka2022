@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
  using System.Collections;
  
  public class MapScroll : MonoBehaviour 
@@ -12,13 +12,16 @@
     public float zoomRate;
 
     private float currentFOV;
+    public Transform target;
 
 
     private void Start() 
     {
         cam = GetComponent<Camera>();
         startingFOV = cam.fieldOfView;
-        transform.Rotate(0f, -90f, 0f);
+        // transform.Rotate(0f, -90f, 0f);
+        Transform FPSController = gameObject.GetComponentInParent<Transform>();
+        FPSController.LookAt(target);
     }
 
     private void Update() 

@@ -29,7 +29,7 @@ namespace Zetcil
         // Start is called before the first frame update
         void Start()
         {
-
+            // TargetCamera.transform.eulerAngles = Vector3.zero;
         }
 
         public void SetCursorVisible(bool aValue)
