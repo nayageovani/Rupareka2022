@@ -21,7 +21,6 @@ body {
     width: 100%;
     height: 100%;
     background:#231F20;
-
 }
 
 /* diubah dari sini */
@@ -60,6 +59,7 @@ body {
     background-color: transparent;
     border: none;
 }
+
 #unity-loading-bar {
     height: auto;
     width: 100%;
