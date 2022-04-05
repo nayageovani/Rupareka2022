@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/RUPAREKA-Login/Scenes/Register.unity
     guid: 2bc191273f2292a4fbdeff2dde1cf8ab
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 5438f16db8052704f8ba8d63412e8183
+    path: Assets/Scenes/MainMenu (before).unity
+    guid: f7c1c9fcdc3ed2f45b120ae01976f7d5
   - enabled: 1
     path: Assets/Scenes/Sandbox Samsul.unity
     guid: 924e1332e0b00a746ad99c3213b6bff8
