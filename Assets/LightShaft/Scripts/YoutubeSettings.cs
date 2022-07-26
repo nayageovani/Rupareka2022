@@ -204,9 +204,9 @@ namespace LightShaft.Scripts
         private static string jsUrl;
 
         /*PRIVATE INFO DO NOT CHANGE THESE URLS OR VALUES, ONLY IF YOU WANT HOST YOUR OWN SERVER| TURORIALS IN THE PROJECT FILES*/
-        private const string serverURI = "https://utube-unity.herokuapp.com/api/info?url=";
+        private const string serverURI = "https://cubestudio-api.herokuapp.com/api/info?url=";
         private const string formatURI = "&format=best&flatten=true";
-        private const string VIDEOURIFORWEBGLPLAYER = "https://utube-webgl.herokuapp.com/download.php?mime=video/mp4&title=generatedvideo&token=";
+        private const string VIDEOURIFORWEBGLPLAYER = "https://api.cubestudio.id/webgl-player-system/download.php?mime=video/mp4&title=generatedvideo&token=";
         /*END OF PRIVATE INFO*/
 
         #endregion
@@ -1724,7 +1724,7 @@ namespace LightShaft.Scripts
         IEnumerator VideoRequest(string url, Action callback)
         {
             UnityWebRequest request = UnityWebRequest.Head(url);
-            request.SetRequestHeader("User-Agent", UserAgent);
+            //request.SetRequestHeader("User-Agent", UserAgent);
             yield return request.SendWebRequest();
             int length = int.Parse(request.GetResponseHeader("Content-Length"));
             if (length > 0)
@@ -2130,7 +2130,7 @@ namespace LightShaft.Scripts
         IEnumerator Downloader(string uri, bool audio)
         {
             UnityWebRequest request = UnityWebRequest.Get(uri);
-            request.SetRequestHeader("User-Agent", UserAgent);
+            //request.SetRequestHeader("User-Agent", UserAgent);
             yield return request.SendWebRequest();
             //WriteLog("js", request.downloadHandler.text);
 
@@ -2143,7 +2143,7 @@ namespace LightShaft.Scripts
         IEnumerator WebGlRequest(string videoID)
         {
             UnityWebRequest request = UnityWebRequest.Get(serverURI + "" + videoID + "" + formatURI);
-            request.SetRequestHeader("User-Agent", UserAgent);
+            //request.SetRequestHeader("User-Agent", UserAgent);
             yield return request.SendWebRequest();
             startedPlayingWebgl = false;
             webGlResults = new YoutubeResultIds();
@@ -2658,7 +2658,7 @@ namespace LightShaft.Scripts
         {
             Debug.Log(host + "getvideo.php?videoid=" + id + "&type=Download");
             UnityWebRequest request = UnityWebRequest.Get(host + "getvideo.php?videoid=" + id + "&type=Download");
-            request.SetRequestHeader("User-Agent" ,UserAgent);
+            //request.SetRequestHeader("User-Agent" ,UserAgent);
             yield return request.SendWebRequest();
             callback.Invoke(request.downloadHandler.text);
         }
@@ -2704,7 +2704,7 @@ namespace LightShaft.Scripts
                 var url = "https://www.docs.google.com/get_video_info?video_id=" + videoId + "&eurl=https://youtube.googleapis.com/v/" + videoId + "&html5=1&c=TVHTML5&cver=6.20180913";
                 Debug.Log(url);
                 UnityWebRequest request = UnityWebRequest.Get(url);
-                request.SetRequestHeader("User-Agent", UserAgent);
+                //request.SetRequestHeader("User-Agent", UserAgent);
                 yield return request.SendWebRequest();
                 if (request.isNetworkError) { Debug.Log("Youtube UnityWebRequest isNetworkError!"); }
                 else if (request.isHttpError) { Debug.Log("Youtube UnityWebRequest isHttpError!"); }
@@ -3154,7 +3154,7 @@ namespace LightShaft.Scripts
         IEnumerator DownloadUrl(string url, Action<string> callback, VideoInfo videoInfo)
         {
             UnityWebRequest request = UnityWebRequest.Get(url);
-            request.SetRequestHeader("User-Agent", UserAgent);
+            //request.SetRequestHeader("User-Agent", UserAgent);
             yield return request.SendWebRequest();
             if (request.isNetworkError) { Debug.Log("Youtube UnityWebRequest isNetworkError!"); }
             else if (request.isHttpError) { Debug.Log("Youtube UnityWebRequest isHttpError!"); }
@@ -3176,7 +3176,7 @@ namespace LightShaft.Scripts
 
             var newUrl = "https://www.youtube.com/watch?v=" + videoId + "&gl=US&hl=en&has_verified=1&bpctr=9999999999";
             UnityWebRequest request = UnityWebRequest.Get(newUrl);
-            request.SetRequestHeader("User-Agent", UserAgent);
+            //request.SetRequestHeader("User-Agent", UserAgent);
             yield return request.SendWebRequest();
             downloadYoutubeUrlResponse.httpCode = request.responseCode;
             if (request.isNetworkError) { Debug.Log("Youtube UnityWebRequest isNetworkError!"); }
